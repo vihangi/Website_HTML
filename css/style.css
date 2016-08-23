@@ -22,9 +22,10 @@ h3{
 }
 
 #pricetable{
-	width: 100%;
+	
 	border: 2px solid #FFFFFF;
 	max-width: 100%;
+	align-self:center;
 }
 
 ul {
@@ -52,6 +53,7 @@ li a:hover {
 }
 
 body{
+	width:auto;
 	background-color:#000000;
 	padding-right:5em;
 	padding-left:5em;
@@ -61,15 +63,18 @@ body{
 }
 #content
 {
-	float:left;
+	
+	width:auto;
 	color:#B2C8DD;
 	font-family:"arima madurai";
+	
 }
 #content2
 {
 	float:left;
 	color:#B2C8DD;
 	font-family:"arima madurai";
+text-align:center;
 }
 
 #img1
@@ -102,6 +107,7 @@ body{
 }
 
 table, th, td {
+	
     border: 1px solid black;
 	padding-left:5px;
 	padding-right:5px;
@@ -117,9 +123,11 @@ th, td {
 }
 
 table{
-	display:block;
-	border:thick;
-	 border: 1px solid black;
+	display: inline-block;
+	border: thick;
+	border: 1px solid black;
+	vertical-align:central;
+	
 }
 /* unvisited link */
 a:link {
@@ -140,6 +148,27 @@ a:hover {
 a:active {
     color:#928FE5;
 }
+footer { 
+
+   
+  clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: 10em;
+	color:#F2F2F2;
+	text-align:left;
+	padding-top:10px;
+	position:relative;
+	
+	
+}
+#link{
+	padding-left:520px;
+	color:#B2C8DD;
+	font-family:"arima madurai";
+}
+
 
 
 	
