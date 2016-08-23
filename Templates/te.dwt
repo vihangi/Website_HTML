@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+
+
+<meta charset="UTF-8">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Arima+Madurai" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Slabo+13px" rel="stylesheet">
+
+
+<head>
+<title>COSSIEPLAY</title>
+</head>
+    
+<body>
+ <ul id="ul" >
+  <li><a class="active" a href="index.html">Home</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="announcements.html">Announcements</a></li>
+  <li><a href="link.html">Links</a></li>
+  <li><a href="signup.html">Sign-up</a></li>
+  <li><a href="guidlines.html">Party Guildlines</a></li>
+  <li><a href="price.html">Price List</a></li>
+</ul>   
+      
+      <div id="banner">
+ 
+  <h1> COSSIEPLAY<br>
+   <h2>SINCE 2012</h2>
+  </h1>
+  <br>
+</div>
+  <br><br>
+  <!-- TemplateBeginEditable name="EditRegion1" --><div id="content">
+  <p> <img style="display: block; vertical-align: middle;  margin-right: 20px; float: left;" src="images/olaf-630522_1280.jpg" width="250" height="250" align="right">
+  <div id="content2">
+  <h3>What is CosPlay? <br>
+  </h3>
+Cosplay, a portmanteau of the words costume play, is a performance art in which participants called cosplayers wear costumes and fashion accessories to represent a specific character. Cosplayers often interact to create a subculture and a broader use of the term "cosplay" applies to any costumed role-playing in venues apart from the stage. Any entity that lends itself to dramatic interpretation may be taken up as a subject and it is not unusual to see genders switched. Favorite sources include manga and anime, comic books and cartoons, video games, and live-action films and television series. <br>
+<br>
+The rapid growth in the number of people cosplaying as a hobby since 1990 has made the phenomenon a significant aspect of popular culture in Japan and some other parts of Asia and in the Western world. Cosplay events are common features of fan conventions and there are also dedicated conventions and local and international competitions, as well as social networks, websites and other forms of media centered on cosplay activities. <br>
+<br>
+Reproduced from https://en.wikipedia.org/wiki/Cosplay <br>
+<br>
+
+
+
+</div><!-- TemplateEndEditable -->
+
+</body>
+
+<footer>
+<p> Copyright Vihangi Vagal</p>
+</footer>
+
+</html>
