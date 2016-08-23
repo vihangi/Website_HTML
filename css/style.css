@@ -22,11 +22,9 @@ h3{
 }
 
 #pricetable{
-	width:100%;
-	
-	border:2px;
-	border-color:#FFFFFF;
-	max-width:100%;
+	width: 100%;
+	border: 2px solid #FFFFFF;
+	max-width: 100%;
 }
 
 ul {
@@ -105,16 +103,17 @@ body{
 
 table, th, td {
     border: 1px solid black;
-	padding-left:50px;
-	padding-right:50px;
+	padding-left:5px;
+	padding-right:5px;
 text-align:center;
+border-bottom: 1px solid #ddd;
 
 
 }
 th, td {
-    padding: 15px;
+    padding: 5px;
     text-align: left;
-	border-bottom: 1px solid #ddd;
+	
 }
 
 table{
